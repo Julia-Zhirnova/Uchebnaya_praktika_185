@@ -26,4 +26,4 @@
  7. Необходимо разработать мобильное приложение, используя Android Studio или Xamarin Forms
 
 https://micro-solution.ru/excel/formatting/telefon-format
-    
+видео https://youtu.be/cz4nn5x7eaE    
