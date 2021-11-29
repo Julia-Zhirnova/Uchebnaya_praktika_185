@@ -6,7 +6,7 @@
  1. Расписание, нужно для ознакомления, пока пары не появились в школьном портале https://docs.google.com/document/d/1h60ecvnCPLU0xCs6S-p9gOOWROuf_JXS/edit#
  2. Задание, оно распечатывается, Вы ставите подпись, в головном корпусе его заверяют, оно вкладывается в отчет https://docs.google.com/document/d/1_wDABEax3qV4x9rQsIHEshgmbkQXK0jk/edit
  3. Дневник заполняется в соответствии с образцом https://docs.google.com/document/d/1ENXCYYo3cE-NOTf4X-DaAfA77RRvDVdI/edit
- 4. Отчет заполняется в соответствии с образцом https://docs.google.com/document/d/1OOzQ1X_JcHwB2e2ZTWzMUgzKv5QZzGpL/edit
+ 4. Отчет заполняется в соответствии с образцом https://docs.google.com/document/d/1OOzQ1X_JcHwB2e2ZTWzMUgzKv5QZzGpL/edit Количество листов 10
 * Файлы для выполнения задания по учебной практике в архиве Task-Session.zip
  1. Видео и теория: "ПРОГРАММНЫЕ РЕШЕНИЯ ДЛЯ БИЗНЕСА" https://nationalteam.worldskills.ru/skills/programmnye-resheniya-dlya-biznesa/
  2. Требования и рекомендации.pdf:
