@@ -10,7 +10,7 @@
  3. Дневник заполняется в соответствии с образцом https://docs.google.com/document/d/1ENXCYYo3cE-NOTf4X-DaAfA77RRvDVdI/edit
  4. Отчет заполняется в соответствии с образцом https://docs.google.com/document/d/1OOzQ1X_JcHwB2e2ZTWzMUgzKv5QZzGpL/edit Количество листов 10
 * Файлы для выполнения задания по учебной практике в архиве Task-Session.zip
- 1. Видео и теория: "ПРОГРАММНЫЕ РЕШЕНИЯ ДЛЯ БИЗНЕСА" https://nationalteam.worldskills.ru/skills/programmnye-resheniya-dlya-biznesa/
+ 1. Видео и теория: "ПРОГРАММНЫЕ РЕШЕНИЯ ДЛЯ БИЗНЕСА" https://nationalteam.worldskills.ru/skills/programmnye-resheniya-dlya-biznesa/ Видео https://vk.com/video-191398306_456239035
  2. Требования и рекомендации.pdf:
     > наименование настольного приложения должно обязательно включать название компании заказчика.
     > исходный код приложения (в виде коммита текущей версии проекта, но не архивом).
