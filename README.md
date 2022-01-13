@@ -1,6 +1,5 @@
 # Uchebnaya_praktika_185
-# Сдача отчетов по учебной и производственной практике 07.12 9.00-13.20, 14.12 10.10-13.20, 21.12 08.30-13.20, 24.12 09.30-12.00, 27.12 09.30-12.00, 28.12 08.30-13.20. 
-
+Презентация https://docs.google.com/presentation/d/1dJvan9CLZMceRECjAOUwTuOSeVG5x5giPiLobkPFtDo/edit#slide=id.g10ad5446d1e_0_4
 # Создайте папку(репозиторий) практика, и прогресс выкладывайте туда
 В репозитории выложены все необходимые ссылки и задание на практику
 * Оценки https://docs.google.com/spreadsheets/d/1sigaZ8M5s8NZi94R4XTTjXNyr5V21q39nhIfr9-Se8U/edit#gid=1676971941
